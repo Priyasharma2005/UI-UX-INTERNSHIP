@@ -11,13 +11,13 @@ Welcome to my UI/UX internship project repository. This repo includes the design
 
 ---
 
-## ✅ Task 2 - Landing Page UI  
+## ✅ Task 2 - EMAIL TEMPLATE.UI
 📸 Screenshot:  
 ![Task 2](Task-2/Screenshot%20(18).png)
 
 ---
 
-## ✅ Task 3 - E-commerce Homepage  
+## ✅ Task 3 - RESTAURANT MENU
 📸 Screenshot:  
 ![Task 3](Task-3/Screenshot%20(19).png)
 
